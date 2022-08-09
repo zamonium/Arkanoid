@@ -1,4 +1,4 @@
-Sommaggio Simone
+Sommaggio Simone - 2016
 
 Arkanoid clone using C++ and OpenGL
 
