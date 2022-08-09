@@ -1,0 +1,8 @@
+Sommaggio Simone
+
+Arkanoid clone using C++ and OpenGL
+
+External libraries:
+- SDL2 (windows, context, events and input)
+- glew (graphics)
+- stb_image (texture loading)
